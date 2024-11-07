@@ -48,7 +48,6 @@
 
 ### Name: NARRA AKHIL
 ### Register Number:212223230136
-![Screenshot 2024-10-24 160929](https://github.com/user-attachments/assets/3661ae7f-a2dc-4732-9e12-e5888a6a8571)
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
